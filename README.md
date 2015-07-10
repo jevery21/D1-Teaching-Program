@@ -1,5 +1,5 @@
-# Kruskals-Algorithm-Teaching-Program
-This is a VB.Net program that runs Kruskal's algorithm against a set network. 
+# D1-Teaching-Program
+This is a VB.Net program that runs Kruskal's algorithm against a set network, and was made to help A-Level students understand this concept as part of the D1 module.
 
 It challenges users to see if they can find the minimum connector of the network in the shortest time. 
 
